@@ -26,7 +26,6 @@ Vibe-coded the shit out of this project after school, got no fucking clue if it'
 ## Сборка и запуск
 
 ```
-git clone <адрес репозитория>
 cd Barakhloskop
 dotnet run
 ```
